@@ -1,0 +1,84 @@
+#  1. 𝐒𝐭𝐚𝐭𝐐𝐮𝐞𝐬𝐭 𝐰𝐢𝐭𝐡 𝐉𝐨𝐬𝐡 𝐒𝐭𝐚𝐫𝐦𝐞𝐫
+https://www.youtube.com/@statquest
+
+#  2. 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐚
+https://www.youtube.com/watch?v=XUFLq6dKQok
+
+#  3. 𝐂𝐚𝐬𝐬𝐢𝐞 𝐊𝐨𝐳𝐲𝐫𝐤𝐨𝐯
+
+#  4. 𝐃𝐞𝐟𝐞𝐧𝐝 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭
+https://www.youtube.com/@DefendIntelligence/playlists
+
+#  6. 𝐊𝐞𝐧 𝐉𝐞𝐞
+https://www.youtube.com/watch?v=NQQ3DRdXAXE&list=PL2zq7klxX5AReJn7nZfqOKLZ3IpKj7fwc
+https://github.com/PlayingNumbers/ML_Algorithms_Course
+https://www.kaggle.com/code/kenjee/housing-prices-example-with-video-walkthrough
+
+
+#  7. 𝐋𝐞𝐂𝐨𝐢𝐧𝐒𝐭𝐚𝐭
+https://github.com/LeCoinStat/100JoursDeML
+https://www.youtube.com/watch?v=SwGghwhk9Ak&list=PLyh35eYRez8e0KxsArawcDm6TYPVq0rU_
+https://discord.gg/qnuy8tDA
+https://github.com/LeCoinStat/100JoursDeML/tree/main/01_Debuter_En_Python
+
+
+#  8. J.A DATATECH CONSULTING
+https://www.youtube.com/watch?v=C2q6YruVVCk&list=PLmJWMf9F8euRVMAm3niEnQpkEUxfjKxp0&index=3
+
+#  8. Thibault Neveu (NLP)
+https://www.youtube.com/watch?v=BnMyq-CLNys&list=PLpEPgC7cUJ4b-u8RScBgn66XfXW6fAt46
+https://github.com/thibo73800/pytorch_nlp/blob/master/Pytorch%20Introduction.ipynb
+
+#  8. Tensorflow
+https://www.youtube.com/watch?v=DjQFwJGnRDY&list=RDCMUC0rqucBdTuFTjJiefW5t-IQ&index=24
+
+#  8. Thierry Ancelle
+https://www.youtube.com/@ThierryAncelle/playlists
+
+
+Times series
+https://github.com/priya170807/Time-seriesAnalysis
+
+
+
+Cours NLP: Chaine Youtube
+https://www.youtube.com/watch?v=2fofJC-0gmg
+
+
+# Leçon 1 - Fastai-FR - Classification d'images
+-------------------------------------------------
+https://www.youtube.com/watch?v=57YUi48VHDw
+https://www.youtube.com/watch?v=qatA1l56plc&list=PL8aDrGCfwYzTYhWAU5NJdA0ex2TwfOSjr&index=1
+https://github.com/royam0820/fastai2-v4/blob/master/10_nlp.ipynb
+
+# Docstring
+https://www.youtube.com/watch?v=LamjAFnybo0&t=16798s
+
+# Formation Python : creation application mobile
+https://www.youtube.com/watch?v=QMb0fjH5Rjg
+
+https://www.youtube.com/watch?v=_TVrC_HCkTE
+
+# NLP (anglais)
+https://www.youtube.com/watch?v=YklplKmCoUw
+https://www.youtube.com/playlist?list=PL_8jNcohs27UAFzKyuYA4X9OswXcy-3wC
+https://github.com/aswintechguy/Machine-Learning-Projects
+
+
+https://www.youtube.com/watch?v=fO7FT8tkWD0&list=PLi_8oNFfVFrxUw8sOn3TyGPKoYh04m8N-&index=1
+
+# 5 mini projets
+https://www.youtube.com/watch?v=DPaUCvNcHiM
+
+
+https://www.youtube.com/@DefendIntelligence/playlists
+https://www.youtube.com/watch?v=t3B1BItaNZE&list=PLlVRzxtr0mQlbsElZ6SpRzekyBLigBi-C
+https://github.com/anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow/tree/master
+
+DSN-AI+ Community
+dsn-aicommunity.slack.com
+
+# Liste e-mail
+-------------------------------------------------------------------------------------------------
+fofespoir1@yahoo.fr, madoucoulibaly464@gmail.com, Layeone@gmail.com, pierreclaversidibe399@outlook.fr, pierreclaversidibe399@gmail.com, maiga.issaka1@students.jkuat.ac.ke, fatoumatadial22@gmail.com, ttimbaleck@gmail.com,
+yacounabegue@gmail.com

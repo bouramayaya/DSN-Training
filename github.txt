@@ -1,0 +1,336 @@
+https://github.com/ChristopheMalo/Comment-utiliser-Git/blob/master/README.md
+https://www.kaggle.com/code/bouramayayafane/linear-regression-tutorial/edit
+# CMD
+--------------------------------------------------------
+idea.bat -Duser.dir=C:\Users\Fane0763\OpenClassroom\'OC Projet 6'
+FANE_Bourama_1_notebook_pretraitement_feature_extraction_faisaibilite_202306.ipynb
+.
+cd C:\Users\Fane0763\OpenClassroom\'OC Projet 6'
+cd /c/Users/Fane0763/OpenClassroom/'OC Projet 6'
+
+git remote -v
+git remote remove origin
+git remote add origin https://github.com/Gansane/P7.git
+git branch -M main
+git push -u origin master
+
+
+ cd/your project directory
+
+ 1) git init
+ 2) git add . or git add ['filename']
+ 3) git commit -m "My first File"
+ 4) git remote add origin https://github.com/yourusername/your-repo-name.git
+ 5) git pull origin master
+ 6) git push origin master
+
+#---------------------------------------------------------------------------------------------------------
+#  Supprimer des fichiers
+#---------------------------------------------------------------------------------------------------------
+git rm --cached FANE_Bourama_1_notebook_pretraitement_feature_extraction_faisaibilite_202306.ipynb
+git rm --cached FANE_Bourama_2_notebook_classification.ipynb
+git remote remove origin 
+git remote add origin https://github.com/bouramayaya/OC-Projet-6.git
+git push -u origin master
+#---------------------------------------------------------------------------------------------------------
+git --version
+git init
+gh repo create bouramayaya/OC-Projet-6  --public # , `--private`,
+
+
+git add function_nlp.py 
+git commit -m "fonctions NLP"
+
+git add function_cp.py 
+git commit -m "fonctions Computer Vision"
+
+
+
+git remote -v # pour afficher les références distantes configurées sur votre dépôt local
+git remote remove origin # pour supprimer
+git remote add origin https://github.com/bouramayaya/OC-Projet-6.git
+git push -u origin master
+
+# ----------------------------------------------------------------------
+cd './DSN Training'
+
+git init
+git add dsn*.png
+git commit -m "Logo DSN"
+git remote -v
+git remote remove origin 
+git remote add origin https://github.com/bouramayaya/pictures.git
+git push -u origin master
+# --------------------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------------------------
+#  Chargement github des fichiers projet 6.
+# --------------------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------------------------
+
+git add FANE_Bourama_1_notebook_pretraitement_feature_extraction_faisaibilite_NLP_202306.ipynb 
+git commit -m "Notebook 1 - NLP"
+
+git add FANE_Bourama_2_notebook_pretraitement_feature_extraction_faisaibilite_SIFT_ORB_202306.ipynb 
+git commit -m "Notebook 2 - Computer Vision"
+
+git add FANE_Bourama_3_notebook_classification_202306.ipynb
+git commit -m "Notebook 3 - Classification"
+git add FANE_Bourama_4_traitement_avec_technique_recente_202306.ipynb
+git commit -m "Notebook 4 - Data augmentation"
+
+git add requirements_* 
+git commit -m "Requirements"
+
+git add APi_Champagne.csv
+git commit -m "API"
+
+git add FANE_Bourama_5_script_Python_202306.py 
+git commit -m "API"
+
+git add FANE_Bourama_6_presentation_202306.pdf
+git commit -m "presentation"
+
+
+
+git remote remove origin 
+git remote add origin https://github.com/bouramayaya/OC-Projet-6.git
+git push -u origin master
+
+git init
+git add 'OC Projet 7 EDA.ipynb' 'OC Projet 7 Modelisation.ipynb' app.py dashboard.py function_EDA.py EDA_Kernel_Kaggle.py
+git commit -m "Fichiers projet 7"
+
+git add dashboard7.py
+git commit -m "Dashboard Dash"
+git remote remove origin 
+git remote add origin https://github.com/bouramayaya/OC-Projet-7.git
+git push -u origin master
+
+git init
+git add .
+git commit -m "OC Projet 7"
+git push -u origin master
+
+
+git init
+git add .
+git commit -m "OC Projet 7"
+git remote remove origin 
+git remote add origin https://github.com/bouramayaya/OC-Projet-7.git
+git push -u origin master
+
+reponame="Code-scripts"
+gh repo create $reponame --private
+
+
+git init
+git add .
+git commit -m "Scripts"
+git remote remove origin 
+git remote add origin https://github.com/bouramayaya/$reponame.git
+git push -u origin master
+
+
+git config --global --add safe.directory /home/ubuntu/OC/dashboard
+
+reponame="OC-Projet-7"
+reponame="dashboard"
+reponame="OC-Projet-7"
+cd reponame
+git init
+git add .
+git commit -m "Porjet 7 OC"
+git remote remove origin 
+git remote add origin https://github.com/bouramayaya/$reponame.git
+git push -u origin master
+
+
+
+# --------------------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------------------------
+
+
+
+git remote remove origin # pour supprimer
+git remote add origin https://github.com/bouramayaya/OC-Projet-6.git
+git push -u origin master
+
+#----------------------------------------------------------------------------------
+# Desinstaller et reinstaller les packages venv
+#----------------------------------------------------------------------------------
+python -m pip freeze > packages.txt
+python -m pip uninstall -r packages.txt -y
+python -m pip install -r requirements.txt
+
+
+
+#----------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------
+git --version
+git init
+git add function_cp.py 
+git commit -m "fonctions Computer Vision"
+git remote -v 
+git remote remove origin # pour supprimer
+git remote add origin https://github.com/bouramayaya/OC-Projet-6.git
+git push -u origin master
+
+git add FANE_Bourama_2_notebook_classification.ipynb 
+git commit -m "Notebook 2 - Computer Vision"
+git remote remove origin 
+git remote add origin https://github.com/bouramayaya/OC-Projet-6.git
+git push -u origin master
+
+git add requirements_* 
+git commit -m "Requirements"
+git remote remove origin 
+git remote add origin https://github.com/bouramayaya/OC-Projet-6.git
+git push -u origin master
+
+
+
+
+#----------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------
+git add 'OC Projet 5 Nettoyage.ipynb'
+git commit -m "Nettoyage"
+git remote -v # pour afficher les références distantes configurées sur votre dépôt local
+git remote remove origin # pour supprimer
+git remote add origin https://github.com/bouramayaya/OC-Projet-5.git
+git push -u origin master
+
+
+
+
+bouramayaya/OC-Projet-5
+#----------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------
+git --version
+git init
+git add function.py 
+git commit -m "Liste des fonctions"
+git remote -v # pour afficher les références distantes configurées sur votre dépôt local
+git remote remove origin # pour supprimer
+git remote add origin https://github.com/bouramayaya/OC-Projet-5.git
+git push -u origin master
+#----------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------
+git add 'OC Projet 5 Nettoyage.ipynb'
+git commit -m "Nettoyage"
+git remote -v # pour afficher les références distantes configurées sur votre dépôt local
+git remote remove origin # pour supprimer
+git remote add origin https://github.com/bouramayaya/OC-Projet-5.git
+git push -u origin master
+
+#----------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------
+git add 'OC Projet 5 Segmentation.ipynb'
+git commit -m "Segmentation"
+git remote -v # pour afficher les références distantes configurées sur votre dépôt local
+git remote remove origin # pour supprimer
+git remote add origin https://github.com/bouramayaya/OC-Projet-5.git
+git push -u origin master
+
+#----------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------
+git add 'OC Projet 5 Simulation.ipynb' 
+git commit -m "Simulation"
+git push 
+
+#----------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------
+
+
+git add 'OC Projet 5 Segmentation.ipynb'
+git commit -m "Segmentation"
+git push -u origin master
+#----------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------
+cd C:\Users\Fane0763\OpenClassroom\'OC Projet 5'\'OC Projet 5 final'
+
+git add 'requirements_eda.txt'
+git commit -m "Requirements EDA"
+git push 
+
+git add 'requirements_segmentation.txt'
+git commit -m "Requirements segmentation"
+git push 
+
+git add 'requirements_simulation.txt'
+git commit -m "Requirements simulation"
+git push 
+
+git rm --cached 'OC Projet 5 Segmentation BF.ipynb'
+git commit -m "Suppression OC Projet 5 Segmentation BF"
+
+
+#----------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------
+Upload Project/Files On Github Using Command line
+
+
+November 29, 2021 By Admin 7 Commentson Upload Project/Files On Github Using Command line
+Upload file to github command line. Today we will learn how to easily upload project or file on github using command line. First we will create a new repository on github and after we will fill the repository name and description.
+
+Upload Project/Files On Github Using Command line
+Follow the few steps and successfully upload file or project on github using command line.
+
+Step 1 – Create New Repository
+We need to create a new repository on GitHub website. Go to link and create repository click here . Click New repository from the menu on your right once you are logged into your GitHub account.
+
+add new repository
+Create new repository On Github
+Fill the repository name and description of your project.
+
+create git project
+Step 2 – Now Open cmd
+Now go to the Terminal on your computer system. Use cd to navigate to the local project directory that you want to publish on GitHub.
+
+CD to navigate to your directory
+
+cd/your_directory_name
+Install Git For Windows, Mac OS X, Linux
+Step 3 – Initialize Local Directory
+Now we will intialize our project. Use the below command to initialise the local directory as Git repository.
+
+git init
+Step 4 – Add Local repository
+Add all the files in the local directory to staging using the command below.
+
+git add . 
+This command stages all the files in the directory, ready for commit.
+
+Step 5 – Commit Repository
+You can now commit the staged files using the command below. It is explanatory and helpful.
+
+git commit -m "First commit Message"
+
+How to Install Git on CentOS 8
+Step 6 – Add Remote Repository url
+Now, copy the remote repository URL provided by github to you when you published your repository on GitHub.
+
+git repository url
+Now we will add the copied URL for your GitHub repository as remote repository using the code below.
+
+git remote add origin https://github.com/yourusername/your-repo-name.git
+
+This command add our GitHub repository as a remote that you can then push your local repository changes.
+
+Step 7 – Push Local Repository to github
+In the last step, use the below command line in your terminal to push the local repository to GitHub. It will upload the file or project on github.
+
+git push origin master
+If you use -u in the command, it will remember your preferences for remote and branch and you can simply use the command git push next time.
+
+git push -u origin master
+Step 8 – Pull Repository from github
+Pull the desired branch from the upstream repository. This method will retain the commit history without modification.
+
+git pull origin master
+
+gh repo list
+gh repo create github.com/bouramayaya
+gh repo delete github.com/bouramayaya 
+
+
+https://github.com/gaetan-varlet/tutoriel-git/blob/master/fiches/commandesGit.md
